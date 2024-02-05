@@ -33,4 +33,6 @@ else
 System.out.println("The given number is not a sunny number.");   
 }   
 }   
-}  
+} 
+
+sun
